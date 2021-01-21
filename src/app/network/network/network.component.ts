@@ -18,7 +18,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
 @Component({
   selector: 'app-network',
   templateUrl: './network.component.html',
-  styleUrls: ['./network.component.css']
+  styleUrls: ['./network.component.scss']
 })
 export class NetworkComponent implements OnInit {
 
