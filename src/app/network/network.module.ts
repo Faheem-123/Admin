@@ -3,7 +3,8 @@ import { CommonModule } from '@angular/common';
 
 import { NetworkRoutingModule } from './network-routing.module';
 import { NetworkComponent } from './network/network.component';
-import { SharedModule } from '../shared/shared.module';
+import { SharedModule } from '../shared';
+
 
 
 @NgModule({
